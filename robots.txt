@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phituefaed.jauzey.com/sitemap.xml
